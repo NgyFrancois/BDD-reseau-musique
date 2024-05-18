@@ -1,0 +1,42 @@
+genre_parent,nom_sous_genre
+Rock,Heavy Metal
+Rock,Punk
+Rock,Grunge
+Rock,Alternative
+Pop,Hip-hop
+Pop,Rap
+Pop,R&B
+Pop,Soul
+Pop,Funk
+Pop,Disco
+Electronic,House
+Electronic,Techno
+Electronic,Trance
+Electronic,Ambient
+Jazz,Blues
+Jazz,Swing
+Classical,Opera
+Country,Folk
+Country,Bluegrass
+Country,Americana
+World Music,Reggae
+World Music,Ska
+World Music,Dub
+World Music,Dancehall
+World Music,Latin
+World Music,Salsa
+World Music,Tango
+World Music,Flamenco
+World Music,Bossa Nova
+World Music,African Music
+World Music,Indian Classical Music
+World Music,Chinese Traditional Music
+World Music,Japanese Traditional Music
+World Music,Korean Traditional Music
+World Music,Middle Eastern Music
+New Age Music,Gospel Music
+New Age Music,Christian Music
+New Age Music,Praise & Worship Music
+New Age Music,Contemporary Christian Music
+Instrumental Music,Soundtracks
+Instrumental Music,Choral Music

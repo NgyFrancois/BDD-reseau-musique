@@ -1,0 +1,691 @@
+id_musique,titre,id_album,id_groupe
+1,Turning Tide (En solitaire),20,165
+2,Lilies,50,174
+3,Cannery Row,73,10
+4,Be Kind Rewind,5,152
+5,"Family Stone, The",16,59
+6,The Dark Valley,47,105
+7,Hated,82,10
+8,Elephant,92,297
+9,"Lodger: A Story of the London Fog, The",87,2
+10,Haunted Honeymoon,38,246
+11,Mamma Roma,48,88
+12,Never Die Alone,74,56
+13,Fate Is the Hunter,37,250
+14,Godsend,4,165
+15,Passage to Marseille,90,88
+16,Little Darlings,7,286
+17,"Nightmare Castle (Amanti d'oltretomba) (Lovers from Beyond the Tomb) (Faceless Monster, The)",59,274
+18,XXY,52,31
+19,Gaby: A True Story,3,189
+20,"Acid House, The",88,189
+21,Alaska: Spirit of the Wild,54,147
+22,Fighting,83,152
+23,"Men, The",45,51
+24,"Little Mermaid, The",51,118
+25,Wings,97,54
+26,Pirates of Silicon Valley,78,276
+27,"Tomb, The",30,51
+28,Going Straight,12,189
+29,"Black Scorpion, The",75,274
+30,King's Game (Kongekabale),10,236
+31,Shadow of the Vampire,99,281
+32,Match Point,42,147
+33,Fata Morgana,65,116
+34,JFK,35,286
+35,Akira Kurosawa's Dreams (Dreams),94,263
+36,"Suicide Shop, The (Le magasin des suicides) ",43,202
+37,Anatahan,55,136
+38,Gas,16,187
+39,À propos de Nice,17,105
+40,Joan Rivers: A Piece of Work,87,297
+41,Battle in Outer Space,10,136
+42,"Covenant, The",76,56
+43,"Cameraman's Revenge, The (Mest kinematograficheskogo operatora)",62,165
+44,Amores Perros (Love's a Bitch),73,19
+45,Blackboards (Takhté Siah),18,202
+46,Every Other Weekend (Un week-end sur deux),60,226
+47,Restless (Uro),61,51
+49,66 Scenes From America,22,295
+50,Secret,21,81
+51,Little Ashes,88,2
+52,Fingersmith,29,118
+53,Funny Bones,27,250
+54,Dogtooth (Kynodontas),74,174
+55,"Other Boleyn Girl, The",64,177
+56,Flow,95,19
+57,Seven Invisible Men (Septyni nematomi zmones),38,276
+58,In Their Sleep (Dans ton sommeil),89,56
+60,Raanjhanaa,35,250
+61,Little Lord Fauntleroy,47,62
+62,"Dangerous Profession, A",58,210
+63,Hostile Intentions,25,189
+64,Crocodile (Ag-o),94,56
+65,Hotte in Paradise (Hotte im Paradies),96,116
+66,Space Battleship Yamato,78,263
+67,One Man's Hero,70,88
+68,Chang: A Drama of the Wilderness,80,274
+69,"Red Bear, A (Un oso rojo)",57,76
+70,Flypaper,33,34
+71,Dirt,37,78
+72,Battles Without Honor & Humanity (Jingi naki tatakai),81,187
+73,"Necessities of Life, The (Ce qu'il faut pour vivre)",53,76
+74,"Riddle of the Sands, The",61,281
+75,Mr. Moto in Danger Island,74,147
+76,"Now You See Him, Now You Don't",23,165
+77,"Mosquito Net, The (La mosquitera)",17,56
+78,10 Rillington Place,66,210
+79,Gotcha!,16,281
+80,"4th Floor, The",39,118
+81,You Kill Me,54,87
+82,All is Bright,2,120
+83,Goodbye to Language 3D,47,189
+84,Lady in the Water,70,81
+85,"American Werewolf in Paris, An",75,153
+86,And Now... Ladies and Gentlemen...,64,268
+87,Henry: Portrait of a Serial Killer,33,153
+88,Breakaway (Speedy Singhs),90,81
+89,"Lifeguard, The",87,226
+90,Ghosts of the Abyss,99,2
+91,"Perks of Being a Wallflower, The",5,227
+92,Confidence Girl,65,210
+93,It's Complicated,25,210
+94,Boys Life,100,274
+95,D.O.A.,50,105
+96,...And God Spoke,29,268
+97,Skipped Parts,34,62
+98,Sade,24,286
+99,"I, the Jury",85,31
+100,Appleseed Alpha,76,76
+101,Crows Zero (Kurôzu zero),97,81
+102,Drunken Tai Chi (Siu taai gik),91,34
+103,Lucky Numbers,18,276
+104,Brake,55,210
+105,Heavy Metal 2000,82,153
+106,Deck the Halls,33,272
+107,So Close (Chik Yeung Tin Sai),73,295
+108,One Nite In Mongkok (Wong gok hak yau),27,81
+109,Knockout,71,2
+110,Ministry of Fear,74,249
+111,Thunder Rock,30,120
+112,"Young Törless, The (Junge Törless, Der)",44,88
+113,"Love Movie, The (Rakkauselokuva)",72,163
+114,"Safe Place, A",34,236
+115,Twin Falls Idaho,66,105
+116,Born Reckless,90,272
+117,Hot Shots! Part Deux,63,226
+118,Camp de Thiaroye,87,297
+119,Oh My God,49,108
+120,Love Exposure (Ai No Mukidashi),82,70
+121,Gerry,16,189
+122,"Scar, The (Blizna)",22,147
+123,Habit,93,163
+124,Craig Ferguson: Does This Need to Be Said?,17,2
+125,The Kick,35,120
+126,Hearts and Minds,54,120
+127,Grindhouse,68,274
+128,Pekka ja Pätkä lumimiehen jäljillä,12,51
+129,Meth,62,54
+130,"Beekeeper, The (O melissokomos)",37,276
+131,Scooby-Doo 2: Monsters Unleashed,47,105
+132,Shalako,60,177
+133,How Green Was My Valley,78,176
+134,Body and Soul,7,267
+135,Stockholm Stories,86,62
+136,Naked Ambition: An R Rated Look at an X Rated Industry ,38,31
+137,"Experience, The (Tadjrebeh)",45,2
+138,Vampires,50,10
+139,Night Flight,99,118
+140,"Beast of War, The (Beast, The)",31,210
+141,Twilight Zone: The Movie,45,152
+142,Mickey,8,268
+143,"Men, Women & Children",86,10
+144,Wilderness,12,41
+145,Hit and Runway,36,236
+146,Reality Bites,31,298
+147,Aliens of the Deep,1,177
+148,Gamera the Brave,84,152
+150,"Rocketeer, The",87,88
+151,Sunrise: A Song of Two Humans,20,176
+152,Forever,73,59
+153,"Human Experience, The",32,281
+154,Transcendent Man,43,176
+155,China O'Brien,57,176
+156,On the Waterfront,58,165
+157,"Last of the Unjust, The (Dernier des injustes, Le)",97,19
+159,Ernest Goes to School,28,210
+160,Out of Africa,4,281
+161,Snowball Express,79,153
+162,Everyday Sunshine:  The Story of Fishbone,25,281
+163,Gitmek: My Marlon and Brando (Gitmek: Benim Marlon ve Brandom),27,276
+164,Detroit 9000,35,19
+165,Body and Soul,99,174
+166,Alps (Alpeis),76,88
+167,Dead Set,63,70
+168,"Great Flamarion, The",52,10
+169,Freeway,24,116
+170,Shaolin Wooden Men (Shao Lin mu ren xiang),69,268
+171,"Thousand Months, A (Mille mois)",16,62
+172,Atlas Shrugged: Part 1,67,177
+173,Crac,17,118
+174,Cheech & Chong's Nice Dreams,44,118
+175,WUSA,92,210
+176,"Sleeping Car Murder, The (Compartiment tueurs)",99,164
+177,Stop! Or My Mom Will Shoot,80,174
+178,Carol Channing: Larger Than Life,51,281
+179,Kickboxer 4: The Aggressor,69,202
+180,Pretty in Pink,62,246
+181,When in Rome,59,153
+182,"Trap, The (Klopka)",28,120
+183,Sunshine on Leith ,68,164
+184,"Fitzgerald Family Christmas, The",47,81
+185,"People vs. Larry Flynt, The",86,165
+186,Play it to the Bone,21,105
+187,Take This Job and Shove It,8,136
+188,The Voices,13,10
+189,Rahtree: Flower of the Night (Buppha Rahtree),84,268
+190,Space Odyssey: Voyage to the Planets,53,81
+191,Whitey: United States of America v. James J. Bulger,45,227
+192,Cold Showers (Douches froides),93,187
+193,"Forsaken, The",61,62
+194,From Paris with Love,66,19
+195,"Medallion, The",56,76
+196,"Sunset Limited, The",58,120
+197,"French Minister, The (Quai d'Orsay)",43,2
+198,Milius,25,163
+199,Runaway Train,14,2
+200,Olympia Part Two: Festival of Beauty (Olympia 2. Teil - Fest der Schönheit),41,297
+201,Samson and Delilah,42,249
+202,Gallowwalkers,38,268
+203,Tormented,10,176
+204,Gasht-e ershad,82,210
+205,"Horse Rebellion",87,210
+206,"Blossoming of Maximo Oliveros",1,297
+207,Payment Deferred,88,187
+208,Fingers at the Window,65,236
+209,"Look of Silence, The",44,118
+210,"Hurricane, The",55,174
+211,AVPR: Aliens vs. Predator - Requiem,95,54
+212,Vertical Limit,5,174
+213,"American President, The",96,108
+215,Rare Birds,15,152
+216,"Unmarried Woman, An",100,34
+217,Semi-Pro,11,87
+218,Alien Contamination,6,250
+219,Fine-Tune,50,187
+220,"Living Skeleton, The (Kyûketsu dokuro-sen)",47,87
+221,Flamenco (de Carlos Saura),2,87
+222,Blue Vinyl,83,174
+223,Hitman (Contract Killer) (Sat sau ji wong),32,272
+224,Crystal Fairy & the Magical Cactus and 2012,69,268
+225,Gainsbourg (Vie Héroïque),52,274
+226,Kill Me Please,99,163
+227,Dream Land,94,164
+228,Ghosts of Cité Soleil,43,174
+229,Four Sided Triangle,48,174
+230,I Love Your Work,18,174
+231,Cold Fish (Tsumetai nettaigyo),44,51
+232,"Presentation, or Charlotte and Her Steak (Présentation ou Charlotte et son steak)",16,116
+233,Bob Roberts,7,120
+234,Scorching Winds (Garm Hava) (Garam Hawa),17,187
+235,My Man Godfrey,90,51
+236,Garfield: A Tail of Two Kitties,92,105
+237,"Scarlet Pimpernel, The",41,236
+238,Consuming Spirits,63,70
+239,Circle of Iron,26,297
+240,Anchorman 2: The Legend Continues,53,236
+241,Time (Shi gan),84,19
+242,Freedom Writers,87,249
+243,Identification of a Woman (Identificazione di una donna),12,59
+244,Adventures of Kitty O'Day (Kitty O'Day Comes Through),19,202
+245,Arn: The Knight Templar (Arn - Tempelriddaren),21,105
+246,Twilight Zone: The Movie,68,176
+247,Cinderella III: A Twist in Time,36,268
+248,"Catechism Cataclysm, The",76,2
+249,Private School,2,118
+250,Gotcha!,82,295
+251,A Gun for Jennifer,43,291
+252,"Cutter, The",5,78
+253,Super Demetrios,94,227
+254,Juno,61,88
+255,Maniac Cop,37,281
+256,Snitch,45,263
+257,Holocaust,87,227
+258,"Little Shop of Horrors, The",98,31
+259,Guilty by Suspicion,26,34
+260,Yes Man,56,210
+261,Savage Grace,65,295
+262,Blue Collar,83,108
+263,Gone Fishin',24,281
+264,To the Devil a Daughter,47,88
+265,College,80,276
+266,Action Jackson,28,227
+267,"Union, The",30,163
+268,Woman in the Moon (By Rocket to the Moon) (Frau im Mond),38,210
+269,Addicted to Love,75,88
+270,Big Shot's Funeral (Da Wan),39,297
+271,"Cross of Lorraine, The",52,202
+272,Gold Diggers of 1933,71,51
+273,"Parisienne La (Une parisienne)",18,152
+274,Where the Heart Is,57,105
+275,"Little Engine That Could",22,152
+276,Mail Early for Xmas,15,2
+277,Sherlock Holmes Faces Death,41,147
+278,Deep Red (Profondo rosso),74,176
+279,Champagne for Caesar,78,236
+280,Hannah Montana: The Movie,93,76
+281,Condorman,52,202
+282,Rubin and Ed,49,2
+283,Arsenic and Old Lace,98,153
+284,That's The Way I Like It (a.k.a. Forever Fever),75,19
+285,"Ghostmaker, The (Box of Shadows)",77,51
+286,Stonewall,30,2
+287,Fist of Jesus,63,263
+288,Twogether,23,54
+289,"Bag of Hammers, A",68,118
+290,2012: Time for Change,37,250
+291,Virtual JFK: Vietnam If Kennedy Had Lived,42,41
+292,Sister Street Fighter (Onna hissatsu ken),43,19
+293,Amy's O (a.k.a. Amy's Orgasm),60,10
+294,Godzilla Against MechaGodzilla (Gojira tai Mekagojira),81,176
+295,Roadie,71,164
+296,Hallam Foe (Mister Foe),83,286
+297,Sex Lives of the Potato Men,74,105
+298,13 Assassins (Jûsan-nin no shikaku),97,250
+299,Dark and Stormy Night,2,297
+300,"Man Apart, A",33,108
+301,In Secret,89,152
+302,Wild in the Country,61,249
+303,You're Telling Me!,45,19
+304,Frozen Planet,36,152
+305,"Magnetic Monster, The",84,268
+306,"Hills Run Red, The",41,78
+307,Anything But Love (a.k.a. Standard Time),8,249
+308,"Red Chapel, The (Røde kapel, Det)",85,176
+309,"Tuskegee Airmen, The",19,281
+310,"Good Woman, A",93,246
+311,"Guys, The",79,81
+312,28 Days Later,57,78
+313,"Mikado, The",88,81
+314,"Laughing Policeman, The",6,286
+315,"Dunwich Horror, The",14,152
+316,Rocks in my Pockets,78,2
+317,Dolphin Tale 2,81,176
+318,When Evening Falls on Bucharest or Metabolism,77,227
+319,The Whisperer in Darkness,53,10
+320,2-Headed Shark Attack,85,174
+321,Sweet Smell of Success,74,274
+322,Big Top Pee-Wee,94,276
+323,Val Lewton:  The Man in the Shadows,32,210
+324,Wisdom,92,176
+325,Scary or Die,75,108
+327,Knock Off,95,153
+328,Every Stewardess Goes to Heaven (Todas las azafatas van al cielo),60,176
+329,Quatermass and the Pit,29,210
+330,In Praise of Love (Éloge de l'amour),65,88
+331,À nous la liberté (Freedom for Us),38,153
+332,Nothing But Trouble,13,249
+333,Buried Alive,40,81
+334,Dolores Claiborne,37,189
+335,Osaka Elegy (Naniwa erejî),39,236
+336,"Children, The",36,286
+337,Fidel,67,202
+338,Beverly Hills Ninja,6,105
+339,"Castle, The (Das Schloß)",31,105
+340,Rock the Boat,20,78
+341,Challenge to Lassie,55,164
+342,Kvarteret Skatan reser till Laholm,28,174
+343,"Town Called Hell, A",66,263
+344,"Life and Times of Hank Greenberg, The",69,88
+345,"World Unseen, The",46,76
+346,Love Is Colder Than Death (Liebe ist kälter als der Tod),8,267
+347,"Song for Martin, A (Sång för Martin, En)",23,165
+348,"Verdict, The",25,56
+349,Titus,34,56
+350,Black Moon,16,116
+351,Portrait Werner Herzog,30,31
+352,Eye of God,46,116
+353,Detective Dee and the Mystery of the Phantom Flame (Di Renjie),58,54
+354,Across 110th Street,43,81
+355,"Move Over, Darling",96,51
+356,"Emperor Waltz, The",77,153
+357,Annie,94,76
+358,"City, The (Ciudad, La)",55,19
+359,Casper's Haunted Christmas,18,286
+360,North,10,108
+361,"Shrink Is In, The",78,274
+362,From Dusk Till Dawn,23,118
+363,Electile Dysfunction,68,263
+364,American Buffalo,50,19
+365,Wolves,87,176
+366,Don't Drink the Water,8,70
+367,Dead Alive (Braindead),47,226
+368,Sometimes They Come Back... for More,19,41
+369,Hell Is Sold Out,3,210
+370,The Living Idol,39,136
+371,Dinner for One (Der 90. Geburtstag oder Dinner for One),41,246
+372,"Zed & Two Noughts, A",9,152
+373,"Damned, The (La Caduta degli dei)",28,87
+374,Where's Marlowe?,51,295
+375,Our Relations,14,165
+376,Autopsy,75,152
+377,"Serious Man, A",98,108
+378,The Vixen,93,54
+379,"Mayday at 40,000 Feet!",15,2
+380,SuperBabies: Baby Geniuses 2,71,268
+381,Lean on Me,54,41
+382,K.G. (Karate Girl),61,87
+383,Quarantine,62,276
+384,Simon Sez,4,187
+385,"Moon-Spinners, The",90,249
+386,Surplus: Terrorized Into Being Consumers,58,226
+387,God's Not Dead,66,59
+388,The Love Letter,57,153
+389,Ticker,29,88
+390,Golden Boy,28,88
+391,Bellissima,68,70
+392,Pinocchio,78,164
+393,Centurion,12,87
+394,"Awakening, The",25,19
+395,Killer Elite,11,249
+396,"White Cliffs of Dover, The",82,19
+397,"Violent Men, The",16,62
+398,"Wizard of Oz, The",67,59
+399,Rain Man,33,76
+400,Paradise: Faith (Paradies: Glaube),47,298
+401,Tell It to the Marines,27,118
+402,Bobcat Goldthwait: You Don't Look the Same Either,62,250
+403,"Chalk Garden, The",73,187
+404,Welcome to the Sticks (Bienvenue chez les Ch'tis),21,136
+405,Pressure Point ,2,116
+406,They Live by Night,46,250
+407,Crocodile (Ag-o),26,286
+408,"Spiders, Part 2: The Diamond Ship, The (Die Spinnen, 2. Teil - Das Brillantenschiff)",48,274
+409,Land and Freedom (Tierra y libertad),60,297
+410,From Hell,56,295
+411,"Swell Season, The",9,152
+412,Homework,80,298
+413,Can-Can,85,62
+414,"Age of Innocence, The",24,202
+415,"Why Are the Bells Ringing, Mitica? (a.k.a. Carnival Scenes) (De ce trag clopotele, Mitica?)",41,41
+416,Child of Rage,64,147
+417,Perils of the Sentimental Swordsman,14,297
+418,No Mercy,65,281
+419,House of Dracula,50,202
+420,Breaking and Entering,84,202
+421,"Baby, The",8,236
+422,Val Lewton:  The Man in the Shadows,31,276
+423,"Entity, The",76,78
+424,"Great Yokai War, The (Yôkai daisensô)",34,118
+425,Too Many Cooks,19,210
+426,9 Souls (Nain souruzu),38,227
+427,Eye for an Eye,42,202
+428,The Legend of Bloody Jack,2,118
+429,Cool Runnings,95,272
+430,"Sword and the Sorcerer, The",65,153
+431,Lupin III: Sweet Lost Night (Rupan Sansei: Sweet Lost Night),7,56
+432,"Monitor, The (Babycall)",89,263
+433,Dialogues with Solzhenitsyn (Uzel),26,202
+434,"Promise, The (Wu ji)",82,116
+435,Crossing the Bridge: The Sound of Istanbul,70,286
+436,"Taste of Honey, A",100,147
+437,Vääpeli Körmy ja marsalkan sauva,73,281
+438,King of Germany,69,76
+439,Marilena de la P7,61,31
+440,Fish Tank,60,34
+441,"Toy, The (Le jouet)",15,56
+442,Spy Kids 2: The Island of Lost Dreams,67,274
+443,Andy Hardy Meets Debutante,33,291
+444,Marc Maron: Thinky Pain,23,105
+445,Poetry (Shi),72,236
+446,"Reef, The",85,267
+447,Astro Boy,64,210
+448,Flywheel,17,118
+449,THX 1138,24,88
+450,Detention of the Dead,21,118
+451,"Kid With a Bike, The (Le gamin au vélo)",88,286
+452,Screamers: The Hunting,5,177
+453,Two Brothers (Deux frères),56,108
+454,"I, Monster",28,87
+455,Rabbit-Proof Fence,43,19
+456,Muriel's Wedding,7,295
+457,"Cool, Calm and Collected (Calmos)",5,59
+458,"Very Brady Sequel, A",87,295
+459,Dragon Age: Redemption,65,297
+460,George Harrison: Living in the Material World,24,118
+461,Frownland,93,268
+462,Midway,92,116
+463,Barefoot,49,116
+464,"Nine Lives of Tomas Katz, The",51,276
+465,DOA: Dead or Alive,2,31
+466,Dillinger and Capone,16,226
+467,Two Ninas,82,153
+468,Viva María!,10,163
+469,"Think Fast, Mr. Moto",68,298
+470,Keep Your Distance,76,31
+471,"Perils of Pauline, The",25,108
+472,Powder,69,34
+473,Breaking the Maya Code,67,108
+474,Don't Go Breaking My Heart (Daan gyun naam yu),99,250
+475,"Puppet Masters, The",97,136
+476,Buried Alive,75,136
+477,Voices,72,174
+478,Stand Off,4,54
+479,Class of Nuke 'Em High,83,78
+480,1,39,19
+481,Pink Saris,58,87
+482,Garlic Is As Good As Ten Mothers,64,81
+483,Leaves from Satan's Book (Blade af Satans bog),6,267
+484,Rage of Angels: The Story Continues,46,152
+485,Strange Magic,73,88
+486,Posse,9,59
+487,"Last House on the Left, The",86,281
+488,Mike Bassett: England Manager,44,227
+489,"Friend Is a Treasure, A (Chi Trova Un Amico, Trova un Tesoro) (Who Finds a Friend Finds a Treasure)",3,108
+490,"Solitude of Prime Numbers, The",22,120
+491,Bonneville,80,34
+492,Crimes of the Heart,15,70
+493,"Chef in Love, A (Shekvarebuli kulinaris ataserti retsepti)",1,267
+494,Performance,18,267
+495,Bad Karma,7,187
+496,See This Movie,43,189
+497,Romeo and Juliet,48,56
+498,"After Dark, My Sweet",65,298
+499,Medium Cool,85,272
+500,Heaven,24,108
+501,"Lion King II: Simba's Pride, The",77,249
+502,Ironweed,8,226
+503,Outside Ozona,6,187
+504,Animals are Beautiful People,10,118
+505,Lemonade Joe (Limonádový Joe aneb Konská opera),44,202
+506,Halloween II,13,19
+507,American Mary,55,136
+508,"Sleeping Beauty, The (La belle endormie)",60,202
+509,Slaves to the Underground,4,59
+510,A Justified Life: Sam Peckinpah and the High Country,38,136
+511,Crime Wave,66,250
+512,"Taste of Tea, The (Cha no aji)",72,187
+513,Father and Guns (De père en flic),23,274
+514,Louis C.K.: Shameless,91,147
+515,Take a Giant Step,78,227
+516,"Keeper, The",19,19
+517,Fuck,31,187
+518,Premonition,68,295
+519,Choose,71,297
+520,Regeneration,88,202
+521,"Flight of Dragons, The",56,136
+522,Barry Munday,59,105
+523,Madonna of the Seven Moons,16,116
+524,[REC]²,70,249
+525,"Swinger, The",39,70
+526,That's My Boy,16,152
+527,Beyond the Border,58,163
+528,Chain Letter,1,202
+529,Nymphomaniac: Volume II,46,153
+530,Valentino: The Last Emperor,2,108
+531,Scooby-Doo! Curse of the Lake Monster,27,105
+532,Blade II,19,41
+533,"Carriers Are Waiting, The (Convoyeurs attendent, Les)",31,267
+534,Mr. Toad's Wild Ride (a.k.a. The Wind in the Willows),61,250
+535,"Hawaii, Oslo",91,116
+536,Wanda Sykes: Sick and Tired,64,10
+537,"Grapes of Wrath, The",59,276
+538,I Could Never Be Your Woman,45,274
+539,Kaleidoscope,78,88
+540,Hands Off the Loot (Touchez pas au grisbi),57,54
+541,"Price of Forgiveness, The (Ndeysaan)",82,88
+542,Evelyn Prentice,24,210
+543,Miracle on 34th Street,69,108
+545,First Snow,13,187
+546,State Affairs (Une affaire d'état),86,116
+547,"Owl and the Pussycat, The",21,268
+548,"Sapphires, The",44,187
+549,Half Light,17,76
+550,Charly,38,59
+551,"Adonis Factor, The",79,105
+552,King Kong vs. Godzilla (Kingukongu tai Gojira),14,263
+553,Just Before Dawn,51,176
+554,It All Starts Today (Ça commence aujourd'hui),70,291
+555,Miss Congeniality,47,164
+556,"Horrible Dr. Hichcock, The",53,62
+557,Liebestraum,95,152
+558,For Your Eyes Only,54,295
+559,"Butcher's Wife, The",80,164
+560,Girlhood,29,268
+561,Battle in Seattle,10,87
+562,Death at a Funeral,8,88
+563,I'm No Angel,30,174
+564,Barefoot,19,164
+565,Sassy Pants,39,81
+566,"Ace in the Hole (Big Carnival, The)",74,31
+567,"Painted Veil, The",81,116
+568,Cartoon All-Stars to the Rescue,84,174
+569,Night at the Museum: Battle of the Smithsonian,82,227
+570,Berserk: The Golden Age Arc 3 - Descent,18,227
+571,Batman: Mask of the Phantasm,9,51
+572,Patton,71,268
+573,Tom Petty and the Heartbreakers: Runnin' Down a Dream,95,78
+574,Family Viewing,27,120
+575,"Padrecito, El (Little Priest)",41,286
+576,"Oh, God! Book II",87,62
+577,Bright Young Things,32,276
+578,Nobody Else But You (Poupoupidou),68,174
+579,Zombeavers,22,56
+580,They Came Back (Les Revenants),26,272
+581,Wallace & Gromit: The Best of Aardman Animation,78,226
+582,Vamp,11,276
+583,Kings of Pastry (Les rois de la pâtisserie),96,19
+584,The Bone Snatcher,28,136
+585,Commander Hamilton (Hamilton),45,202
+586,Resurrection of the Little Match Girl (Sungnyangpali sonyeoui jaerim),50,105
+587,"Bizarre, Bizarre (Drôle de drame ou L'étrange aventure de Docteur Molyneux)",53,2
+588,In Cold Blood,34,297
+589,Challenge of the Masters (Liu A-Cai yu Huang Fei-Hong),46,298
+590,36 Hours,56,34
+591,11 x 14,92,177
+592,To.get.her,6,76
+593,Behind the Burly Q: The Story of Burlesque in America,55,105
+595,Hardcore,62,147
+596,"Merry Widow, The",23,227
+597,Mirage,43,298
+598,Cord (Hide and Seek),36,298
+599,Bring It On: In It To Win It,68,263
+600,Beyond a Reasonable Doubt,59,164
+601,Rockaway,87,250
+602,"Secret of Santa Vittoria, The",6,54
+603,"Triumph of the Nerds, The: The Rise of Accidental Empires",76,105
+604,"Dream Catcher, The",1,108
+605,Guyana Tragedy: The Story of Jim Jones,4,2
+606,"Dog Year, A",45,31
+607,Judex,77,272
+608,Mirrors,55,236
+609,200 Cigarettes,53,295
+610,Used Cars,100,286
+611,Farmer & Chase,62,210
+612,"Children, The",69,267
+613,800 Bullets (800 Balas),26,164
+614,Emmett's Mark,58,51
+615,"Dark, The",67,31
+616,Blueberry,56,272
+617,Stiff Upper Lips,48,272
+618,"Oversimplification of Her Beauty, An",95,2
+619,Comedy of Innocence (Comédie de l'innocence),49,250
+620,Red's Dream,16,51
+621,"Meteor Man, The",73,272
+622,Nom de code : Rose,44,276
+623,"Sitter, The",28,164
+624,"Love Song for Bobby Long, A",82,2
+625,"Nightmare on Elm Street 3: Dream Warriors, A",81,51
+626,Nurse 3D,92,226
+627,"Simpsons: The Longest Daycare, The",97,187
+628,"Adventures of Milo and Otis, The (Koneko monogatari)",79,210
+629,Poor Us: An Animated History of Poverty,27,226
+630,Horrorvision,33,177
+631,River Queen,43,118
+632,"Da Vinci Code, The",61,176
+633,Article 99,49,19
+634,Les Tuche,27,152
+635,Somewhere Under the Broad Sky,26,250
+636,My Friend Ivan Lapshin (Moy drug Ivan Lapshin),66,164
+637,Berlin Is in Germany,42,202
+638,Forty Guns,99,189
+639,Ratko: The Dictator's Son (National Lampoon's Ratko: The Dictator's Son),44,281
+640,Logan's War: Bound by Honor,37,176
+641,To Live and Die in L.A.,23,136
+642,Mother,98,87
+643,Danika,34,62
+644,Aningaaq,80,76
+645,Utopia,87,41
+646,Prisoners of the Lost Universe,81,116
+647,"Deep Blue Sea, The",84,70
+648,"Collector, The (La collectionneuse)",17,281
+649,Lon Chaney: A Thousand Faces,90,87
+650,Can Go Through Skin (Kan door huid heen),29,295
+651,"Dream Catcher, The",91,295
+652,Sansho the Bailiff (Sanshô dayû),15,176
+653,Broadway Serenade,21,81
+655,Return to Lonesome Dove,56,34
+656,"Incredible Shrinking Woman, The",93,62
+657,2:13,52,176
+658,Michael,92,41
+659,"Andromeda Strain, The",6,54
+660,Francis,3,2
+661,Sun Alley (Sonnenallee),48,152
+662,"Bedroom Window, The",82,136
+663,Cannery Row,8,189
+664,Wish You Were Here,79,177
+665,Faces of Death: Fact or Fiction?,41,267
+666,Guest House Paradiso,59,31
+667,G,100,250
+668,Fear City,88,297
+669,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom)",42,31
+670,Diabolique,90,88
+671,Last Run,53,19
+672,Chicago Cab (a.k.a. Hellcab),9,76
+674,Reparando,71,176
+675,The Legend of Bloody Jack,51,34
+676,"Ladykillers, The",40,19
+677,Frankenstein,12,250
+678,"Big Hand for the Little Lady, A",61,34
+679,"Sommer der Gaukler, Der",11,34
+680,Die Hard: With a Vengeance,33,176
+681,Speedy,57,136
+682,Gypsy,27,62
+683,Fraternity Vacation,82,152
+684,Screwed,29,272
+685,Pandora's Box,16,76
+686,"Story of Temple Drake, The",17,78
+687,"Super, The",81,116
+688,Big Eden,92,250
+689,Silent Light (Stellet licht),39,152
+690,One Spy Too Many,38,286
+691,Sinivalkoinen valhe,14,286
+692,"Wszystko, co kocham",78,41
+693,"Earrings of Madame de..., The (Madame de...)",44,88
+694,Jason Becker: Not Dead Yet,68,176
+695,Something's Gonna Live,63,163
+696,Lila Says (Lila dit ça),54,87
+697,"Book of Life, The",79,153
+698,Ginger Snaps: Unleashed,98,164
+699,Faces of Death 2,94,295
+700,"Picture of Dorian Gray, The",55,210

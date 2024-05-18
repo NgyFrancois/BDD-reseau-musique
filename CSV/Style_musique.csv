@@ -1,0 +1,691 @@
+id_musique,genre_musique
+1,Classical
+2,Rap
+3,Latin
+4,Country
+5,Heavy Metal
+6,Salsa
+7,Country
+8,R&B
+9,Grunge
+10,Chinese Traditional Music
+11,Jazz
+12,Flamenco
+13,Swing
+14,Rock
+15,Rap
+16,Korean Traditional Music
+17,Dub
+18,Middle Eastern Music
+19,Praise & Worship Music
+20,Soundtracks
+21,Funk
+22,Americana
+23,Classical
+24,Punk
+25,Contemporary Christian Music
+26,Electronic
+27,Disco
+28,Gospel Music
+29,Trance
+30,Bossa Nova
+31,World Music
+32,Classical
+33,Soundtracks
+34,Ambient
+35,Opera
+36,Flamenco
+37,Rock
+38,Soundtracks
+39,Heavy Metal
+40,Classical
+41,Country
+42,Contemporary Christian Music
+43,African Music
+44,World Music
+45,Grunge
+46,Punk
+47,Blues
+49,Soundtracks
+50,Disco
+51,Blues
+52,Electronic
+53,Indian Classical Music
+54,Ambient
+55,Jazz
+56,Reggae
+57,Middle Eastern Music
+58,Heavy Metal
+60,Bossa Nova
+61,Jazz
+62,Dancehall
+63,Ambient
+64,Tango
+65,Classical
+66,Pop
+67,Trance
+68,Tango
+69,Punk
+70,Contemporary Christian Music
+71,Americana
+72,Korean Traditional Music
+73,Techno
+74,Country
+75,Blues
+76,Soundtracks
+77,Heavy Metal
+78,Christian Music
+79,Blues
+80,Flamenco
+81,Opera
+82,Dub
+83,Country
+84,Choral Music
+85,Soundtracks
+86,Instrumental Music
+87,Classical
+88,Blues
+89,Heavy Metal
+90,Gospel Music
+91,Disco
+92,House
+93,Techno
+94,Classical
+95,Heavy Metal
+96,Disco
+97,Blues
+98,Blues
+99,Trance
+100,Indian Classical Music
+101,Heavy Metal
+102,Folk
+103,Swing
+104,Dancehall
+105,World Music
+106,Soundtracks
+107,Latin
+108,Pop
+109,R&B
+110,Ska
+111,Pop
+112,Latin
+113,Indian Classical Music
+114,Dancehall
+115,Bossa Nova
+116,Praise & Worship Music
+117,Pop
+118,Middle Eastern Music
+119,Praise & Worship Music
+120,Soul
+121,Latin
+122,Bluegrass
+123,Rock
+124,World Music
+125,Dancehall
+126,Jazz
+127,R&B
+128,Heavy Metal
+129,House
+130,Hip-hop
+131,Heavy Metal
+132,Salsa
+133,Indian Classical Music
+134,Country
+135,Americana
+136,Chinese Traditional Music
+137,Trance
+138,Ska
+139,Salsa
+140,Contemporary Christian Music
+141,Dub
+142,Classical
+143,Instrumental Music
+144,Rap
+145,Dancehall
+146,Rap
+147,Classical
+148,Classical
+150,Choral Music
+151,Folk
+152,Jazz
+153,Techno
+154,Christian Music
+155,Bluegrass
+156,Blues
+157,Latin
+159,Middle Eastern Music
+160,Funk
+161,Americana
+162,Bluegrass
+163,Latin
+164,Korean Traditional Music
+165,Flamenco
+166,Rock
+167,Middle Eastern Music
+168,Indian Classical Music
+169,Tango
+170,Choral Music
+171,Opera
+172,Hip-hop
+173,Dancehall
+174,Korean Traditional Music
+175,Jazz
+176,Trance
+177,Instrumental Music
+178,New Age Music
+179,Contemporary Christian Music
+180,Rock
+181,Choral Music
+182,Blues
+183,Dub
+184,Jazz
+185,Electronic
+186,Heavy Metal
+187,Swing
+188,R&B
+189,Classical
+190,Trance
+191,Americana
+192,Techno
+193,Gospel Music
+194,Bluegrass
+195,Rock
+196,Soul
+197,Classical
+198,Bossa Nova
+199,Punk
+200,Christian Music
+201,Pop
+202,Hip-hop
+203,Techno
+204,Classical
+205,Swing
+206,Tango
+207,Gospel Music
+208,Dub
+209,Techno
+210,Soundtracks
+211,Opera
+212,Heavy Metal
+213,African Music
+215,Salsa
+216,Salsa
+217,Electronic
+218,Disco
+219,Bluegrass
+220,Tango
+221,World Music
+222,Americana
+223,Instrumental Music
+224,World Music
+225,Japanese Traditional Music
+226,Pop
+227,Classical
+228,Soul
+229,Disco
+230,Ambient
+231,Bluegrass
+232,R&B
+233,Bluegrass
+234,Opera
+235,Contemporary Christian Music
+236,Classical
+237,World Music
+238,Latin
+239,Punk
+240,Flamenco
+241,Funk
+242,African Music
+243,Korean Traditional Music
+244,Instrumental Music
+245,Chinese Traditional Music
+246,Soundtracks
+247,Reggae
+248,Instrumental Music
+249,Indian Classical Music
+250,African Music
+251,Trance
+252,Blues
+253,Ska
+254,Americana
+255,Salsa
+256,Bossa Nova
+257,Folk
+258,Bluegrass
+259,Jazz
+260,Rap
+261,World Music
+262,Grunge
+263,Folk
+264,Opera
+265,Gospel Music
+266,Trance
+267,Classical
+268,Alternative
+269,Blues
+270,Punk
+271,Soundtracks
+272,Electronic
+273,Choral Music
+274,Christian Music
+275,Disco
+276,Chinese Traditional Music
+277,Gospel Music
+278,Alternative
+279,Country
+280,Disco
+281,Korean Traditional Music
+282,Reggae
+283,Punk
+284,Trance
+285,Soul
+286,Middle Eastern Music
+287,Korean Traditional Music
+288,Electronic
+289,Gospel Music
+290,Disco
+291,Ambient
+292,Soundtracks
+293,Rock
+294,Ska
+295,Punk
+296,Opera
+297,Country
+298,Korean Traditional Music
+299,Bossa Nova
+300,Rap
+301,Middle Eastern Music
+302,Heavy Metal
+303,Jazz
+304,Folk
+305,New Age Music
+306,Soundtracks
+307,New Age Music
+308,Middle Eastern Music
+309,Flamenco
+310,Disco
+311,Blues
+312,Korean Traditional Music
+313,Dancehall
+314,Jazz
+315,Punk
+316,Heavy Metal
+317,Japanese Traditional Music
+318,Folk
+319,Punk
+320,Disco
+321,Swing
+322,Heavy Metal
+323,Praise & Worship Music
+324,Opera
+325,Contemporary Christian Music
+327,Trance
+328,Techno
+329,Disco
+330,Soul
+331,Indian Classical Music
+332,Blues
+333,Salsa
+334,Rock
+335,Chinese Traditional Music
+336,Choral Music
+337,Korean Traditional Music
+338,Hip-hop
+339,Choral Music
+340,Gospel Music
+341,Bluegrass
+342,Disco
+343,Disco
+344,Latin
+345,Chinese Traditional Music
+346,Folk
+347,World Music
+348,Praise & Worship Music
+349,Disco
+350,Rock
+351,Jazz
+352,Dancehall
+353,World Music
+354,Middle Eastern Music
+355,Chinese Traditional Music
+356,Latin
+357,R&B
+358,Disco
+359,Americana
+360,Choral Music
+361,Latin
+362,Disco
+363,Praise & Worship Music
+364,Dub
+365,Soundtracks
+366,Trance
+367,Middle Eastern Music
+368,Japanese Traditional Music
+369,Classical
+370,Classical
+371,Soundtracks
+372,Gospel Music
+373,Salsa
+374,Rap
+375,Rock
+376,Korean Traditional Music
+377,Classical
+378,Instrumental Music
+379,Hip-hop
+380,Christian Music
+381,Korean Traditional Music
+382,Trance
+383,Pop
+384,Alternative
+385,Trance
+386,Heavy Metal
+387,House
+388,Jazz
+389,African Music
+390,Middle Eastern Music
+391,Middle Eastern Music
+392,Rock
+393,Grunge
+394,Rap
+395,Grunge
+396,Opera
+397,African Music
+398,Classical
+399,Japanese Traditional Music
+400,Flamenco
+401,Americana
+402,Contemporary Christian Music
+403,Japanese Traditional Music
+404,Japanese Traditional Music
+405,Choral Music
+406,Flamenco
+407,Tango
+408,Opera
+409,Indian Classical Music
+410,Choral Music
+411,Alternative
+412,Latin
+413,New Age Music
+414,Alternative
+415,Classical
+416,Ska
+417,World Music
+418,Ambient
+419,Christian Music
+420,Bluegrass
+421,Contemporary Christian Music
+422,Techno
+423,Christian Music
+424,Instrumental Music
+425,House
+426,New Age Music
+427,Bossa Nova
+428,Soul
+429,Heavy Metal
+430,Reggae
+431,Rock
+432,Korean Traditional Music
+433,Classical
+434,Christian Music
+435,Ska
+436,Jazz
+437,Grunge
+438,House
+439,Funk
+440,Middle Eastern Music
+441,Hip-hop
+442,Tango
+443,Funk
+444,Dancehall
+445,Electronic
+446,Flamenco
+447,Alternative
+448,Instrumental Music
+449,Contemporary Christian Music
+450,Gospel Music
+451,Blues
+452,Indian Classical Music
+453,Grunge
+454,Ska
+455,Praise & Worship Music
+456,Chinese Traditional Music
+457,Jazz
+458,Contemporary Christian Music
+459,World Music
+460,Reggae
+461,Funk
+462,Japanese Traditional Music
+463,Americana
+464,Soundtracks
+465,Rap
+466,Jazz
+467,Instrumental Music
+468,Swing
+469,Flamenco
+470,Funk
+471,Indian Classical Music
+472,Classical
+473,Instrumental Music
+474,Classical
+475,Middle Eastern Music
+476,Classical
+477,Bluegrass
+478,Opera
+479,Americana
+480,Praise & Worship Music
+481,Dancehall
+482,Japanese Traditional Music
+483,Techno
+484,Alternative
+485,Electronic
+486,Dancehall
+487,Pop
+488,Bluegrass
+489,Techno
+490,Pop
+491,Americana
+492,Reggae
+493,House
+494,Contemporary Christian Music
+495,Korean Traditional Music
+496,Japanese Traditional Music
+497,Americana
+498,Opera
+499,Contemporary Christian Music
+500,Pop
+501,Opera
+502,Rock
+503,Instrumental Music
+504,Swing
+505,Heavy Metal
+506,African Music
+507,Jazz
+508,African Music
+509,Salsa
+510,Japanese Traditional Music
+511,Praise & Worship Music
+512,Contemporary Christian Music
+513,Ska
+514,Instrumental Music
+515,Alternative
+516,R&B
+517,Rap
+518,African Music
+519,Gospel Music
+520,Opera
+521,Soul
+522,Tango
+523,Reggae
+524,Blues
+525,Latin
+526,Pop
+527,Techno
+528,Trance
+529,Heavy Metal
+530,Middle Eastern Music
+531,Rock
+532,African Music
+533,Middle Eastern Music
+534,Americana
+535,Dancehall
+536,Blues
+537,Punk
+538,Classical
+539,World Music
+540,Pop
+541,Folk
+542,Soul
+543,Folk
+545,Electronic
+546,Punk
+547,Disco
+548,Contemporary Christian Music
+549,Soul
+550,Latin
+551,Indian Classical Music
+552,Electronic
+553,Rap
+554,Jazz
+555,Indian Classical Music
+556,Soundtracks
+557,African Music
+558,Bossa Nova
+559,Middle Eastern Music
+560,Bluegrass
+561,Rock
+562,Soul
+563,Ambient
+564,Americana
+565,Classical
+566,Rap
+567,Reggae
+568,Rock
+569,Punk
+570,Americana
+571,Dancehall
+572,House
+573,Tango
+574,Americana
+575,Jazz
+576,House
+577,Contemporary Christian Music
+578,Techno
+579,Rock
+580,Salsa
+581,Instrumental Music
+582,Flamenco
+583,Contemporary Christian Music
+584,Punk
+585,Folk
+586,Electronic
+587,Reggae
+588,Jazz
+589,Christian Music
+590,Folk
+591,Jazz
+592,House
+593,Disco
+595,Rock
+596,Grunge
+597,Middle Eastern Music
+598,Ambient
+599,Country
+600,Techno
+601,Dub
+602,Flamenco
+603,Rock
+604,Disco
+605,Jazz
+606,Praise & Worship Music
+607,Dub
+608,Tango
+609,Jazz
+610,Jazz
+611,Pop
+612,Middle Eastern Music
+613,Disco
+614,Punk
+615,Japanese Traditional Music
+616,World Music
+617,Japanese Traditional Music
+618,Reggae
+619,Grunge
+620,Ambient
+621,Praise & Worship Music
+622,Korean Traditional Music
+623,Flamenco
+624,Ska
+625,Soul
+626,Americana
+627,Dancehall
+628,Praise & Worship Music
+629,World Music
+630,Flamenco
+631,Disco
+632,Americana
+633,Folk
+634,House
+635,Folk
+636,Korean Traditional Music
+637,Trance
+638,Choral Music
+639,Punk
+640,Techno
+641,R&B
+642,New Age Music
+643,Disco
+644,Electronic
+645,Blues
+646,Korean Traditional Music
+647,Soundtracks
+648,Techno
+649,Ambient
+650,Choral Music
+651,Americana
+652,Instrumental Music
+653,Gospel Music
+655,Punk
+656,Blues
+657,Alternative
+658,Blues
+659,Rap
+660,Opera
+661,Soul
+662,Techno
+663,Bluegrass
+664,Tango
+665,Tango
+666,Trance
+667,Swing
+668,Country
+669,Pop
+670,Electronic
+671,Ska
+672,World Music
+674,Ambient
+675,Salsa
+676,Blues
+677,Chinese Traditional Music
+678,Christian Music
+679,Opera
+680,Middle Eastern Music
+681,Classical
+682,Gospel Music
+683,Rap
+684,Country
+685,Dancehall
+686,Contemporary Christian Music
+687,Heavy Metal
+688,Alternative
+689,Japanese Traditional Music
+690,Japanese Traditional Music
+691,Swing
+692,Funk
+693,Electronic
+694,World Music
+695,Country
+696,Chinese Traditional Music
+697,Alternative
+698,Tango
+699,Heavy Metal
+700,Blues
